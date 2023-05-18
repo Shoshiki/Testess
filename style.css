@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-size: 24px;
+}
+
+.blue {
+    border-radius: 50%
+;
+    background-color: blue;
+    background-image: url(jãoju.jpeg);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: -webkit-inline-box 
+}
+
+.sizediv2 {
+    height: 200px;
+    width: 200px;
+    margin: 0 20px 0 10px;
+    
+}
+
+#sizediv {
+    background-color: red;
+    background-image: url(jão.jpeg);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    margin: 0 20px 0 10px;
+    display: -webkit-inline-flex
+}
+
