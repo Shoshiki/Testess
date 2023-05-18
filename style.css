@@ -22,7 +22,8 @@ body {
     
 }
 
-#sizediv {
+#id {
+    border-radius: 50%;
     background-color: red;
     background-image: url(jão.jpeg);
     background-size: cover; 
