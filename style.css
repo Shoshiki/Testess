@@ -15,6 +15,10 @@ body {
     display: -webkit-inline-box 
 }
 
+#geral {
+    background-color: red;
+}
+
 .sizediv2 {
     height: 200px;
     width: 200px;
